@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Never Take Us Alive",
   "base_artist": "Madina Lake",
-  "createdAt": "2026-03-20T14:51:05.661827Z",
+  "createdAt": "2026-03-20T14:52:01.108803Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -75,6 +75,15 @@
       "artist": "Madina Lake",
       "has_synced": false,
       "path": "select/pl_01_Never_Take_Us_Alive_Madina_Lake.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Never Take Us Alive",
+      "artist": "Madina Lake",
+      "has_synced": true,
+      "path": "select/localdb_01_Never_Take_Us_Alive_Madina_Lake.lrc",
+      "repo_name": "hftF0F5a_SA"
     }
   ]
 }
